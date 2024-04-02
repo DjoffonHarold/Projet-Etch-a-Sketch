@@ -1,0 +1,22 @@
+.wrapper{
+  display: flex; 
+  
+  
+}
+.row{
+
+}
+.grid-row{
+    background-color: green;
+    width: 2em;
+    height: 2em;
+    border: 1px solid
+}
+/*.grid-row:hover{
+    background-color: aqua;
+}*/
+.choice{
+    margin-bottom: 10px;
+}
+
+
